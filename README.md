@@ -4,7 +4,7 @@ PH Lehrveranstaltung - Grundlagen der objektorientierten Programmierung mit Pyth
 
 ## Folgende Themengebiete werden behandelt
 * Grundbegriffe der objektorientierten Programmierung (Klassen und ihre Eigenschaften)
-* Magic-Method __str__
+* Magic-Method `__str__`
 * Klassen mit Dataclasses - so werden aktuell Klassen erstellt
 * Abstrakte Klassen
 * Kleine Beispiele zum Ausprobieren.
