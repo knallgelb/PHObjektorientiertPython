@@ -15,7 +15,9 @@ PH Lehrveranstaltung - Grundlagen der objektorientierten Programmierung mit Pyth
 Bitte vorab Python installieren. Es arbeitet sich am Besten mit der Version 3.9+
 
 * [python.org](https://www.python.org/downloads/)
-* [git-scm.com](https://git-scm.com/)
+* Optional [git-scm.com](https://git-scm.com/)
+* Optional IDE [MS Visual Studio](https://visualstudio.microsoft.com/de/)
+* Optional IDE [PyCharm](https://www.jetbrains.com/de-de/pycharm/)
 
 ## Virtuelle Python-Umgebungen
 Bitte gleich ein Virtual-Environment anlegen und die Abhängigkeiten installieren.
