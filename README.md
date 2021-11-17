@@ -24,6 +24,12 @@ Bitte gleich ein Virtual-Environment anlegen und die Abhängigkeiten installiere
 
 [Install pipenv](https://pipenv-fork.readthedocs.io/en/latest/install.html)
 
+### Virtual-Environment erstellen
+`pipenv --python 3`
+
+### Virtual-Enviroment starten
+`pipenv shell`
+
 ### Abhängigkeiten installieren
 `pipenv install`
 
