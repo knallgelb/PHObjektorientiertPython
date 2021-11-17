@@ -25,6 +25,9 @@ Bitte gleich ein Virtual-Environment anlegen und die Abhängigkeiten installiere
 ### Abhängigkeiten installieren
 `pipenv install`
 
+## Programmcode testen
+Mit dem Befehl `pytest` werden die Tests für unsere Klassen ausgeführt. Test-Dateien beginnen immer mit einem `test_`.
+
 ## Andere Quellen/refresher für Python
 * [Xoutube - ArjanCodes | sehr zu empfehlen!](https://www.youtube.com/c/ArjanCodes)
     * [ArjanCodes on github.com](https://github.com/ArjanCodes)
