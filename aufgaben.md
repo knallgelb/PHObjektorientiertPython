@@ -33,15 +33,16 @@ Book "1" -- "n" Chapter
 ## Vokabeltrainer
 ````plantuml
 @startuml
-scale 1.5
+scale 3
 class Dictionary {
-language: str
+language_name: str
 words: [Word]
 }
 
 class Word {
 word: str
 translated_word: str
+check_translated_word(translated_word: str)
 }
 Dictionary "n" -- "n" Word
 @enduml
